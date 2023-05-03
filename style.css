@@ -181,7 +181,7 @@ a.cancel:hover {
   gap: 1rem;
 }
 
-@media (max-width: 375px) {
+@media (max-width: 480px) {
   body {
     background-image: url(/images/pattern-background-mobile.svg);
     font-size: 15px;
@@ -223,17 +223,6 @@ a.cancel:hover {
     width: 279px;
     height: 81px;
   }
-
-
-
- 
-  
-
-  
-
-
-
-
 }
 
 
